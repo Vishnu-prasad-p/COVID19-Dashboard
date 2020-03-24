@@ -68,9 +68,9 @@ def create_plot():
 
     fig.add_trace(go.Scatter(x=line.index.tolist(), y=res_list),
                   row=1, col=2)
-    
+    print(line.columns)
     fig.add_trace(#go.Bar(name='Affected', x=line.index.tolist(), y=res_list),
-                  go.Scatter(name='Cured', x=line.index.tolist(), y=line['Cured'].tolist()),
+                  go.Scatter(name='Cured', x=line.index.tolist(), y=line['Cured/Discharged'].tolist()),
                   row=2, col=1)
     fig.add_trace(go.Bar(name='Affected', x=line.index.tolist(), y=res_list),
                   row=2, col=1)
@@ -84,4 +84,4 @@ def create_plot():
     return graphJSON
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0',debug=True)
