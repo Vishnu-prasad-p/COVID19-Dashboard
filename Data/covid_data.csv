@@ -1,0 +1,182 @@
+﻿Patient_Number,Date_Announced,Origin_type,Location,Age,Sex,Status
+125,03-Apr-20,P2P,Bagalkot,75,M,Deceased
+161,06-Apr-20,P2P,Bagalkot,54,F,Under treatment/ Clearance not yet reported
+162,06-Apr-20,P2P,Bagalkot,58,M,Under treatment/ Clearance not yet reported
+164,07-Apr-20,T2P-TJ,Bagalkot,33,M,Under treatment/ Clearance not yet reported
+165,07-Apr-20,P2P,Bagalkot,41,F,Under treatment/ Clearance not yet reported
+89,31-Mar-20,P2P,Ballari,52,M,Under treatment/ Clearance not yet reported
+90,31-Mar-20,P2P,Ballari,48,F,Under treatment/ Clearance not yet reported
+91,31-Mar-20,P2P,Ballari,26,F,Under treatment/ Clearance not yet reported
+113,02-Apr-20,P2P,Ballari,14,M,Under treatment/ Clearance not yet reported
+141,04-Apr-20,P2P,Ballari,47,F,Under treatment/ Clearance not yet reported
+151,05-Apr-20,T2P,Ballari,41,M,Under treatment/ Clearance not yet reported
+126,03-Apr-20,T2P-TJ,Belagavi,70,M,Under treatment/ Clearance not yet reported
+127,03-Apr-20,T2P-TJ,Belagavi,26,M,Under treatment/ Clearance not yet reported
+128,03-Apr-20,T2P-TJ,Belagavi,20,M,Under treatment/ Clearance not yet reported
+147,05-Apr-20,T2P,Belagavi,36,F,Under treatment/ Clearance not yet reported
+148,05-Apr-20,T2P,Belagavi,40,M,Under treatment/ Clearance not yet reported
+149,05-Apr-20,T2P,Belagavi,67,F,Under treatment/ Clearance not yet reported
+150,05-Apr-20,T2P,Belagavi,41,F,Under treatment/ Clearance not yet reported
+1,09-Mar-20,T,Bengaluru(U),40,M,Clinically recovered
+2,10-Mar-20,T2P,Bengaluru(U),40,F,Clinically recovered
+3,10-Mar-20,T2P,Bengaluru(U),17,F,Clinically recovered
+4,11-Mar-20,T,Bengaluru(U),44,M,Clinically recovered
+5,12-Mar-20,T,Bengaluru(U),30,M,Clinically recovered
+8,16-Mar-20,T,Bengaluru(U),32,M,Clinically recovered
+10,17-Mar-20,T,Bengaluru(U),20,F,Clinically recovered
+11,17-Mar-20,T,Bengaluru(U),67,F,Clinically recovered
+12,18-Mar-20,T,Bengaluru(U),25,M,Clinically recovered
+13,18-Mar-20,T,Bengaluru(U),56,F,Clinically recovered
+14,18-Mar-20,T,Bengaluru(U),35,M,Clinically recovered
+16,21-Mar-20,T2P,Bengaluru(U),53,F,Under treatment/ Clearance not yet reported
+17,21-Mar-20,T,Bengaluru(U),39,M,Under treatment/ Clearance not yet reported
+18,21-Mar-20,T,Bengaluru(U),21,F,Under treatment/ Clearance not yet reported
+23,22-Mar-20,T,Bengaluru(U),36,F,Under treatment/ Clearance not yet reported
+24,22-Mar-20,T,Bengaluru(U),27,M,Under treatment/ Clearance not yet reported
+25,22-Mar-20,T,Bengaluru(U),51,M,Under treatment/ Clearance not yet reported
+28,23-Mar-20,T,Bengaluru(U),38,M,Under treatment/ Clearance not yet reported
+29,23-Mar-20,T,Bengaluru(U),41,M,Under treatment/ Clearance not yet reported
+30,23-Mar-20,T2P,Bengaluru(U),30,F,Under treatment/ Clearance not yet reported
+31,23-Mar-20,T,Bengaluru(U),24,M,Under treatment/ Clearance not yet reported
+32,23-Mar-20,T,Bengaluru(U),60,M,Under treatment/ Clearance not yet reported
+33,23-Mar-20,T,Bengaluru(U),22,M,Under treatment/ Clearance not yet reported
+38,24-Mar-20,T2P,Bengaluru(U),56,F,Under treatment/ Clearance not yet reported
+43,25-Mar-20,T,Bengaluru(U),63,M,ICU
+44,25-Mar-20,T,Bengaluru(U),59,F,Under treatment/ Clearance not yet reported
+45,25-Mar-20,T,Bengaluru(U),26,M,Under treatment/ Clearance not yet reported
+46,25-Mar-20,T,Bengaluru(U),26,M,Under treatment/ Clearance not yet reported
+47,25-Mar-20,T,Bengaluru(U),63,F,Under treatment/ Clearance not yet reported
+48,25-Mar-20,T,Bengaluru(U),69,M,Under treatment/ Clearance not yet reported
+49,25-Mar-20,T2P,Bengaluru(U),9,F,Under treatment/ Clearance not yet reported
+50,25-Mar-20,T2P,Bengaluru(U),7,F,Under treatment/ Clearance not yet reported
+53,26-Mar-20,T,Bengaluru(U),70,F,Deceased
+54,26-Mar-20,T,Bengaluru(U),64,M,Under treatment/ Clearance not yet reported
+55,26-Mar-20,T2P,Bengaluru(U),45,M,Under treatment/ Clearance not yet reported
+57,27-Mar-20,T,Bengaluru(U),20,M,Under treatment/ Clearance not yet reported
+58,27-Mar-20,T,Bengaluru(U),25,F,Under treatment/ Clearance not yet reported
+59,27-Mar-20,T2P,Bengaluru(U),35,F,Under treatment/ Clearance not yet reported
+61,27-Mar-20,T2P,Bengaluru(U),33,F,Under treatment/ Clearance not yet reported
+68,28-Mar-20,T,Bengaluru(U),21,M,Under treatment/ Clearance not yet reported
+74,28-Mar-20,T,Bengaluru(U),63,F,Under treatment/ Clearance not yet reported
+92,31-Mar-20,P2P,Bengaluru(U),40,M,Under treatment/ Clearance not yet reported
+93,31-Mar-20,T,Bengaluru(U),19,M,Under treatment/ Clearance not yet reported
+100,31-Mar-20,T,Bengaluru(U),40,M,Under treatment/ Clearance not yet reported
+101,31-Mar-20,P2P,Bengaluru(U),82,F,ICU
+102,01-Apr-20,P2P,Bengaluru(U),24,M,ICU
+107,01-Apr-20,T,Bengaluru(U),26,M,Under treatment/ Clearance not yet reported
+108,01-Apr-20,T,Bengaluru(U),63,M,Under treatment/ Clearance not yet reported
+129,04-Apr-20,T2P,Bengaluru(U),21,M,Under treatment/ Clearance not yet reported
+130,04-Apr-20,T2P,Bengaluru(U),57,M,Under treatment/ Clearance not yet reported
+131,04-Apr-20,P2P,Bengaluru(U),43,M,Under treatment/ Clearance not yet reported
+132,04-Apr-20,T,Bengaluru(U),78,M,Under treatment/ Clearance not yet reported
+145,05-Apr-20,T,Bengaluru(U),68,M,Under treatment/ Clearance not yet reported
+146,05-Apr-20,T,Bengaluru(U),62,F,Under treatment/ Clearance not yet reported
+152,06-Apr-20,T2P,Bengaluru(U),32,M,Under treatment/ Clearance not yet reported
+153,06-Apr-20,T,Bengaluru(U),62,F,Under treatment/ Clearance not yet reported
+167,07-Apr-20,T2P-TJ,Bengaluru(U),29,M,Under treatment/ Clearance not yet reported
+168,07-Apr-20,T2P-TJ,Bengaluru(U),50,M,Under treatment/ Clearance not yet reported
+170,07-Apr-20,T,Bengaluru(U),68,M,Under treatment/ Clearance not yet reported
+180,08-Apr-20,T,Bengaluru(U),23,M,Under treatment/ Clearance not yet reported
+133,04-Apr-20,T,Bengaluru Rural,60,M,Under treatment/ Clearance not yet reported
+163,06-Apr-20,T2P-TJ,Bengaluru Rural,43,M,Under treatment/ Clearance not yet reported
+169,07-Apr-20,T2P-TJ,Bengaluru Rural,35,M,Under treatment/ Clearance not yet reported
+114,02-Apr-20,T2P-TJ,Bidar,48,M,Under treatment/ Clearance not yet reported
+115,02-Apr-20,T2P-TJ,Bidar,30,M,Under treatment/ Clearance not yet reported
+116,02-Apr-20,T2P-TJ,Bidar,41,M,Under treatment/ Clearance not yet reported
+117,02-Apr-20,T2P-TJ,Bidar,66,M,Under treatment/ Clearance not yet reported
+118,02-Apr-20,T2P-TJ,Bidar,59,M,Under treatment/ Clearance not yet reported
+119,02-Apr-20,T2P-TJ,Bidar,39,M,Under treatment/ Clearance not yet reported
+120,02-Apr-20,T2P-TJ,Bidar,60,M,Under treatment/ Clearance not yet reported
+121,02-Apr-20,T2P-TJ,Bidar,63,M,Under treatment/ Clearance not yet reported
+122,02-Apr-20,T2P-TJ,Bidar,73,M,Under treatment/ Clearance not yet reported
+123,02-Apr-20,T2P-TJ,Bidar,45,M,Under treatment/ Clearance not yet reported
+19,21-Mar-20,T,Chikaballapura,31,M,Under treatment/ Clearance not yet reported
+22,22-Mar-20,T,Chikaballapura,64,F,Under treatment/ Clearance not yet reported
+37,24-Mar-20,T2P,Chikaballapura,56,F,Under treatment/ Clearance not yet reported
+69,28-Mar-20,T2P,Chikaballapura,23,M,Under treatment/ Clearance not yet reported
+70,28-Mar-20,T2P,Chikaballapura,70,M,Under treatment/ Clearance not yet reported
+71,28-Mar-20,T2P,Chikaballapura,32,M,Under treatment/ Clearance not yet reported
+72,28-Mar-20,T2P,Chikaballapura,38,M,Under treatment/ Clearance not yet reported
+73,28-Mar-20,T2P,Chikaballapura,18,M,Under treatment/ Clearance not yet reported
+94,31-Mar-20,P2P,Chikaballapura,40,F,Under treatment/ Clearance not yet reported
+181,08-Apr-20,T,Chikaballapura,27,F,Under treatment/ Clearance not yet reported
+26,22-Mar-20,T,Dakshina Kannada,22,M,Clinically recovered
+34,24-Mar-20,T,Dakshina Kannada,32,M,Under treatment/ Clearance not yet reported
+39,24-Mar-20,T,Dakshina Kannada,47,M,Under treatment/ Clearance not yet reported
+40,24-Mar-20,T,Dakshina Kannada,70,F,Under treatment/ Clearance not yet reported
+41,24-Mar-20,T,Dakshina Kannada,23,M,Under treatment/ Clearance not yet reported
+56,27-Mar-20,P2P,Dakshina Kannada,0,M,Under treatment/ Clearance not yet reported
+64,27-Mar-20,T,Dakshina Kannada,21,M,Under treatment/ Clearance not yet reported
+97,31-Mar-20,T,Dakshina Kannada,34,M,Under treatment/ Clearance not yet reported
+106,01-Apr-20,T,Dakshina Kannada,49,M,Under treatment/ Clearance not yet reported
+142,04-Apr-20,T,Dakshina Kannada,63,F,Under treatment/ Clearance not yet reported
+143,04-Apr-20,T2P,Dakshina Kannada,43,M,Under treatment/ Clearance not yet reported
+144,04-Apr-20,T2P,Dakshina Kannada,52,M,Under treatment/ Clearance not yet reported
+42,25-Mar-20,T,Davanagere,37,F,Clinically recovered
+63,27-Mar-20,T,Davanagere,18,M,Under treatment/ Clearance not yet reported
+75,28-Mar-20,T2P,Davanagere,20,M,Clinically recovered
+21,22-Mar-20,T,Dharwad,33,M,Under treatment/ Clearance not yet reported
+166,07-Apr-20,P2P,Gadag,80,F,Under treatment/ Clearance not yet reported
+6,13-Mar-20,T,Kalaburagi,70,M,Deceased
+7,15-Mar-20,T2P,Kalaburagi,45,F,Clinically recovered
+9,17-Mar-20,T2P,Kalaburagi,63,M,Clinically recovered
+99,31-Mar-20,P2P,Kalaburagi,60,F,Under treatment/ Clearance not yet reported
+124,02-Apr-20,P2P,Kalaburagi,60,F,Under treatment/ Clearance not yet reported
+174,07-Apr-20,P2P,Kalaburagi,28,F,Under treatment/ Clearance not yet reported
+175,07-Apr-20,P2P,Kalaburagi,57,M,Under treatment/ Clearance not yet reported
+177,08-Apr-20,,Kalaburagi,65,M,Deceased
+178,08-Apr-20,P2P,Kalaburagi,72,F,Under treatment/ Clearance not yet reported
+15,19-Mar-20,T,Kodagu,35,M,Under treatment/ Clearance not yet reported
+171,07-Apr-20,P2P,Mandya,32,M,Under treatment/ Clearance not yet reported
+172,07-Apr-20,P2P,Mandya,36,M,Under treatment/ Clearance not yet reported
+173,07-Apr-20,P2P,Mandya,65,M,Under treatment/ Clearance not yet reported
+179,08-Apr-20,P2P,Mandya,35,M,Under treatment/ Clearance not yet reported
+20,21-Mar-20,T,Mysuru,35,M,Under treatment/ Clearance not yet reported
+27,23-Mar-20,T,Mysuru,46,M,Under treatment/ Clearance not yet reported
+52,26-Mar-20,P2P,Mysuru,35,M,Under treatment/ Clearance not yet reported
+77,29-Mar-20,P2P,Mysuru,39,M,Under treatment/ Clearance not yet reported
+78,29-Mar-20,P2P,Mysuru,38,M,Under treatment/ Clearance not yet reported
+79,29-Mar-20,P2P,Mysuru,21,M,Under treatment/ Clearance not yet reported
+80,29-Mar-20,P2P,Mysuru,31,M,Under treatment/ Clearance not yet reported
+81,29-Mar-20,P2P,Mysuru,42,M,Under treatment/ Clearance not yet reported
+85,30-Mar-20,P2P,Mysuru,32,M,Under treatment/ Clearance not yet reported
+86,30-Mar-20,P2P,Mysuru,34,M,Under treatment/ Clearance not yet reported
+87,30-Mar-20,P2P,Mysuru,21,M,Under treatment/ Clearance not yet reported
+88,30-Mar-20,P2P,Mysuru,24,M,Under treatment/ Clearance not yet reported
+95,31-Mar-20,P2P,Mysuru,35,M,Under treatment/ Clearance not yet reported
+96,31-Mar-20,P2P,Mysuru,41,M,Under treatment/ Clearance not yet reported
+103,01-Apr-20,P2P,Mysuru,37,M,Under treatment/ Clearance not yet reported
+104,01-Apr-20,P2P,Mysuru,27,M,Under treatment/ Clearance not yet reported
+105,01-Apr-20,P2P,Mysuru,33,M,Under treatment/ Clearance not yet reported
+109,01-Apr-20,P2P,Mysuru,63,M,Under treatment/ Clearance not yet reported
+110,01-Apr-20,P2P,Mysuru,27,M,Under treatment/ Clearance not yet reported
+111,02-Apr-20,P2P,Mysuru,24,M,Under treatment/ Clearance not yet reported
+112,02-Apr-20,P2P,Mysuru,22,M,Under treatment/ Clearance not yet reported
+134,04-Apr-20,T2P,Mysuru,38,M,Under treatment/ Clearance not yet reported
+135,04-Apr-20,T2P,Mysuru,19,M,Under treatment/ Clearance not yet reported
+136,04-Apr-20,T2P,Mysuru,39,M,Under treatment/ Clearance not yet reported
+137,04-Apr-20,P2P,Mysuru,39,M,Under treatment/ Clearance not yet reported
+138,04-Apr-20,T2P,Mysuru,54,M,Under treatment/ Clearance not yet reported
+139,04-Apr-20,P2P,Mysuru,40,M,Under treatment/ Clearance not yet reported
+140,04-Apr-20,P2P,Mysuru,34,M,Under treatment/ Clearance not yet reported
+154,06-Apr-20,P2P,Mysuru,20,M,Under treatment/ Clearance not yet reported
+155,06-Apr-20,T2P-TJ,Mysuru,37,M,Under treatment/ Clearance not yet reported
+156,06-Apr-20,T2P-TJ,Mysuru,57,M,Under treatment/ Clearance not yet reported
+157,06-Apr-20,T2P-TJ,Mysuru,22,M,Under treatment/ Clearance not yet reported
+158,06-Apr-20,P2P,Mysuru,26,M,Under treatment/ Clearance not yet reported
+159,06-Apr-20,P2P,Mysuru,32,F,Under treatment/ Clearance not yet reported
+160,06-Apr-20,T,Mysuru,35,F,Under treatment/ Clearance not yet reported
+60,27-Mar-20,T2P,Tumkuru,60,M,Deceased
+84,30-Mar-20,T2P,Tumkuru,13,M,Under treatment/ Clearance not yet reported
+51,25-Mar-20,T,Udupi,34,M,Under treatment/ Clearance not yet reported
+82,29-Mar-20,T,Udupi,35,M,Under treatment/ Clearance not yet reported
+83,29-Mar-20,T,Udupi,29,M,Under treatment/ Clearance not yet reported
+35,24-Mar-20,T,Uttara Kannada,40,M,Under treatment/ Clearance not yet reported
+36,24-Mar-20,T,Uttara Kannada,65,M,Under treatment/ Clearance not yet reported
+62,27-Mar-20,T,Uttara Kannada,22,M,Under treatment/ Clearance not yet reported
+65,28-Mar-20,T2P,Uttara Kannada,54,F,Under treatment/ Clearance not yet reported
+66,28-Mar-20,T2P,Uttara Kannada,28,F,Under treatment/ Clearance not yet reported
+67,28-Mar-20,T2P,Uttara Kannada,23,F,Under treatment/ Clearance not yet reported
+76,28-Mar-20,T2P,Uttara Kannada,24,M,Under treatment/ Clearance not yet reported
+98,31-Mar-20,T,Uttara Kannada,26,M,Under treatment/ Clearance not yet reported
+176,08-Apr-20,P2P,Uttara Kannada,26,F,Under treatment/ Clearance not yet reported
